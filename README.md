@@ -75,7 +75,7 @@ Both startups and large public companies are affected, emphasizing the importanc
 ## 📎 Notes
 This project focuses on **exploration and insight generation**.  
 Machine learning was intentionally not applied, as the dataset is event-based and not designed for predictive modeling.
-
+https://medium.com/@reebapatel2210/exploring-global-startup-layoffs-2020-2024-432f4ba2b065
 ---
 
 ## 🙌 Acknowledgements
